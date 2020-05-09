@@ -1,0 +1,8 @@
+Django==2.2.7
+psycopg2-binary==2.8.4
+django-jet==1.0.8
+djangorestframework==3.11.0
+django-rest-auth==0.9.5
+django-allauth==0.41.0
+
+

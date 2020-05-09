@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01ee323b-3903-40b4-81c1-7475a1ca4fce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../demo/requiremnets.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/user/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/user/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/user/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/user/permission.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/user/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/user/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../venv/src/profiles_api/permissions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../venv/src/profiles_api/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../venv/src/profiles_api/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../venv/src/user/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../venv/src/user/models/student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../venv/src/user/models/user.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1bOSk9H67aaYm9VPEPIDfAwXDST" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01ee323b-3903-40b4-81c1-7475a1ca4fce" name="Default Changelist" comment="" />
+      <created>1588501786074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588501786074</updated>
+      <workItem from="1588501789215" duration="4051000" />
+      <workItem from="1588565325488" duration="4951000" />
+      <workItem from="1588573526181" duration="347000" />
+      <workItem from="1588574003305" duration="4254000" />
+      <workItem from="1588689703153" duration="532000" />
+      <workItem from="1588749062442" duration="8464000" />
+      <workItem from="1588827530677" duration="11098000" />
+      <workItem from="1588846495586" duration="8606000" />
+      <workItem from="1589019698880" duration="782000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1588829906719">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1588829906719" />
+    <state x="205" y="31" key="SettingsEditor" timestamp="1588566126841">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="205" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1588566126841" />
+    <state x="0" y="27" width="618" height="741" key="find.popup" timestamp="1588565423504">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="0" y="27" width="618" height="741" key="find.popup/67.27.1299.741@67.27.1299.741" timestamp="1588565423504" />
+  </component>
+</project>
